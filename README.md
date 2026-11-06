@@ -14,6 +14,7 @@ Cantokeys romanization is optimized for touch typing.  It's closest to Jyut6Ping
 ## Sibilants
 
 | Alveolar | Pron| Example | Example | Pron | Alveolo-Palatal |
+| -------- | -------- | -------- | -------- | -------- | -------- |
 | c | cūk | 促 | 觸 | ȼūk | ȼ |
 | j |jṟŋ | 漾 | 讓 | ɉṟŋ| ɉ |
 | s | sàn | 新 | 身 | ꞩàn | ꞩ |
@@ -40,6 +41,7 @@ Allographs can be displayed (recommended) for legibility, or shorthands can hint
 Tone diacritics visualize pitch and contour
 
 | Diacritic | Tone Number | Tone Class | Description | Pitch-contour | Example honzi̱ | Pronunciation | Definition |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | ¯ | 1 | 上陰平，上陰入 | High level | ˥˥  | 紛 | fān | Scatter |
 | ´ | 2 | 陰上 | High rising | ˧˥ | 粉 | fán | Powder |
 |   | 3 | 陰去，下陰入 | Mid level | ˧˧ | 訓 ｜fan | Instruct |
@@ -55,6 +57,7 @@ Tone changes can be represented by moving the () original tone (- for tone 3) to
 For example:
 
 | 漢字 | Cantokeys |
+| -------- | -------- |
 | 時間 | ꞩi̖gʌn` |
 | 哥哥 | go̖¯gō |
 
@@ -69,6 +72,7 @@ No problem, you can still type Cantokeys Romanization!  The Shorthand<=>Allograp
 e.g.
 
 | 漢字 | Conventional | Keyboard-friendly | Sparse |
+| -------- | -------- | -------- | -------- | 
 | 人渣 | ɉa̖nƶʌ̀ | jhan4zhv7 | jhan4zhaa7 |
 | 中彩 | ƶuŋcói | zhuq3coi2 | zhung3coi2 |
 | 法律 | fʌtlɔ̱t | fvt3lxt6 | faat3leot6 |
