@@ -44,8 +44,8 @@ Tone diacritics visualize pitch and contour
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | ¯ | 1 | 上陰平，上陰入 | High level | ˥˥  | 紛 | fān | Scatter |
 | ´ | 2 | 陰上 | High rising | ˧˥ | 粉 | fán | Powder |
-|   | 3 | 陰去，下陰入 | Mid level | ˧˧ | 訓 ｜fan | Instruct |
-| ˎ | 4 | 陽平 | Low falling | ˨˩ | 墳 ｜fa̖n | Tomb |
+|   | 3 | 陰去，下陰入 | Mid level | ˧˧ | 訓 | fan | Instruct |
+| ˎ | 4 | 陽平 | Low falling | ˨˩ | 墳 | fa̖n | Tomb |
 | ˏ | 5 | 陽上 | Low rising | ˨˧ | 憤 | fa̗n | Resent | 
 | ˍ | 6 | 陽去，上陰入 | Low level | ˨˨ | 份 | fa̱n | Portion |
 | ` | 7 | 下陰平 | High falling | ˥˧ | 婚 | fàn | Marriage |
