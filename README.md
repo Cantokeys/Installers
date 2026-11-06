@@ -41,7 +41,7 @@ Allographs can be displayed (recommended) for legibility, or shorthands can hint
 Tone diacritics visualize pitch and contour
 
 | Diacritic | Tone Number | Tone Class | Description | Pitch-contour | Example honzi̱ | Pronunciation | Definition |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | ¯ | 1 | 上陰平，上陰入 | High level | ˥˥  | 紛 | fān | Scatter |
 | ´ | 2 | 陰上 | High rising | ˧˥ | 粉 | fán | Powder |
 |   | 3 | 陰去，下陰入 | Mid level | ˧˧ | 訓 ｜fan | Instruct |
