@@ -7,7 +7,7 @@ For best results, uninstall old version and reboot before installing new version
 
 Doudái ha̗i mè le̖i gʌ?
 
-嶺拼到底係咩嚟㗎？
+到底係咩嚟㗎？
 
 Cantokeys romanization is optimized for touch typing.  It's closest to Jyut6Ping3 but distinguishes high level from high falling tone like Yale and Sidney Lau.  It further differs from most Cantonese romanizations in distinguishing alveolars from alveolo-palatals
 
